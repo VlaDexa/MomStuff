@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "690896361290",
+    "project_id": "tabatatimer-d8d31",
+    "storage_bucket": "tabatatimer-d8d31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690896361290:android:df9a0196de6fe7153e53b3",
+        "android_client_info": {
+          "package_name": "com.example.tabata_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690896361290-ct951k23kft7h9gni9rpk3tn9behg77p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutP9qjiRx8cMIj1emxaFSv-dX5yXwrzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690896361290-ct951k23kft7h9gni9rpk3tn9behg77p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "690896361290-0k71e9tlbtoiufqtghagsiirf2mf7hu7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tabataTimer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
